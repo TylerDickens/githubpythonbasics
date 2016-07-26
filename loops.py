@@ -23,3 +23,9 @@ for x in range(-5,6):
         print x 
         
 
+
+x = 10 
+while x <100:
+    print x *2
+    x = x +5
+
